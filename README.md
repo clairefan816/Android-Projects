@@ -1,7 +1,8 @@
 # Android-Projects
 Here collects all the projects I've done.
 
-Connect 3
+Project Name: Connect 3
+Description:
 Two players in red and yellow counter
 The result of one round would be Red wins, Yellow wins or draw.
 User can start a new game through button "play again"
