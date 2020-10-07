@@ -5,6 +5,7 @@ Project Name: Recipeeeee
 Description:
 This app applied Android CardView with RecyclerView
 Click of each CardView will be directed to another layout.
+
 ![recipe3](https://user-images.githubusercontent.com/54572005/95375050-f0513280-0893-11eb-8af8-30abc5aec6ed.gif)
 
 
