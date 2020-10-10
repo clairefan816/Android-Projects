@@ -64,7 +64,6 @@ public class MainActivity extends AppCompatActivity {
     public void resetTimer(){
         timerTextView.setText("0 : 30");
         timerSeekBar.setProgress(30);
-        countDownTimer.cancel();
         controllerButton.setText("Go!");
         timerSeekBar.setEnabled(true);
         counterIsActive = false;
