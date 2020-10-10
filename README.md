@@ -1,9 +1,21 @@
 # Android-Projects
-Here collects all the projects I've done.
+Here collects all the projects I've done.  
+  
+  
+Project Name: Brain Trainer  
+Description:  
+This is a small game Addition Game.  
+A practice of GridLayout + countDownTimer  
+Color Paletee: (#21C293)(#D9DFDF)(#399C7D)(#F8CB43)(#F97C2C)(#87B6D8)(#8BCF62)   
 
+![brainGame](https://user-images.githubusercontent.com/54572005/95641864-ab76f880-0a59-11eb-91c7-2254fd0da11a.gif)  
+  
+    
+    
 Project Name: ChristmasTree Timer  
 Description:  
 This timer is built with the seekbar and countDownTimer.  
+Users are asked to answer addition questions within 10 seconds. The right/wrong answer will be showed in real-time. And the score will be presented when the time runs out. Users can start a new game through the play again button.  
 Functions include start, stop and reset the timer. And an audio sound alert when time is up!  
 Picture is from: http://www.clipartpanda.com/  
 Sound is from: http://soundbible.com/  
