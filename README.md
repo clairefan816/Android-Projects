@@ -2,13 +2,20 @@
 Here collects all the projects I've done.   
   
     
+Project Name: Recipeeeee  
+Description:  
+This app applied Android CardView with RecyclerView  
+Click of each CardView will be directed to another layout.  
+
+![recipe3](https://user-images.githubusercontent.com/54572005/95375050-f0513280-0893-11eb-8af8-30abc5aec6ed.gif)  
     
     
 Project Name: Hiker's Watch  
 Description:  
 This app monitor phone user's location and present on the screen.  
 This app is specially designed for hikers who wants to know their location during hiking.  
-A practice of locationManager and runtime Permission request.  
+This app uses locationManager for requesting user's location, geocoding for getting user's address, and runtime Permission for requesting user's permission.  
+  
   
   ![hiking](https://user-images.githubusercontent.com/54572005/95697815-cf227600-0bf4-11eb-895e-1956c470bb57.gif)  
   
@@ -33,13 +40,6 @@ Picture is from: http://www.clipartpanda.com/
 Sound is from: http://soundbible.com/  
 
 ![christmas](https://user-images.githubusercontent.com/54572005/95621155-17d80480-0a26-11eb-9179-7a308d568451.gif)  
-
-Project Name: Recipeeeee  
-Description:  
-This app applied Android CardView with RecyclerView  
-Click of each CardView will be directed to another layout.  
-
-![recipe3](https://user-images.githubusercontent.com/54572005/95375050-f0513280-0893-11eb-8af8-30abc5aec6ed.gif)  
 
 
 Project Name: Connect 3  
