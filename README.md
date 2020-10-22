@@ -2,6 +2,19 @@
 Here collects all the projects I've done.   
   
     
+
+ProjectName: Super Web View  
+Description:  
+This app implements significant characters of WebView in Android, such as:  
+
+Javascript support.  
+Make loading progress visible, including showing ProgressBar and ImageView for displaying the web progress and page Favicon when page loading, but turn back invisible once the loading task complete.  
+Add a menu layout inflation for users better switch back and forth between different web pages through forward Button, back Button, refresh button.   
+
+
+![webview](https://user-images.githubusercontent.com/54572005/96928011-cb041d00-146c-11eb-867e-0c1dd63411cc.gif)
+
+
 Project Name: Recipeeeee  
 Description:  
 This app applied Android CardView with RecyclerView  
