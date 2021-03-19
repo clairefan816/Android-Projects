@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22143109725",
+    "project_id": "awesome-test-projects-7a5af",
+    "storage_bucket": "awesome-test-projects-7a5af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22143109725:android:0bd7f6a611e19a2dca1bb4",
+        "android_client_info": {
+          "package_name": "com.example.sticktothem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22143109725-eiidgbdpe3kk64mps7egc4oc2icff81n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDihATU7W8OS5zAmGDedgd-yi85LzMf9P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22143109725-eiidgbdpe3kk64mps7egc4oc2icff81n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
